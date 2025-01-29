@@ -30,4 +30,5 @@ A simple **Snake Game** implemented in C++ using **BFS** data strucutre. The sna
    ```
 
 📄 License
+
 This project is licensed under the MIT License.
