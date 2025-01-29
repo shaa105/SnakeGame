@@ -3,10 +3,10 @@
 A simple **Snake Game** implemented in C++ using **BFS** data strucutre. The snake moves around the grid, eats food to grow, and the game ends if the snake collides with the walls or itself.
 
 🐍 Controls:
-- `w` - Move up
-- `s` - Move down
-- `a` - Move left
-- `d` - Move right
+- `w` - Move up ⬆️
+- `s` - Move down ⬇️
+- `a` - Move left ⬅️
+- `d` - Move right ➡️
 
 🐍 Features:
 - Grid-based snake movement works in terminal
@@ -29,5 +29,5 @@ A simple **Snake Game** implemented in C++ using **BFS** data strucutre. The sna
    ./snake_game
    ```
 
-License
-📄 MIT License
+📄 License
+This project is licensed under the MIT License.
