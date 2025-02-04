@@ -1,4 +1,4 @@
-🐍 **Snake Game using BFS** 🐍
+# **Snake Game using BFS** 🐍
 
 A simple **Snake Game** implemented in C++ using **BFS** data strucutre. The snake moves around the grid, eats food to grow, and the game ends if the snake collides with the walls or itself.
 
